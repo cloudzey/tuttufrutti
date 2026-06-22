@@ -10,7 +10,7 @@ Grup Üyeleri ve Görevleri
 Sueda Tut: Veritabanı tabloları, SQL kodları, tablo ilişkileri, ER diyagramı ve dummy data
 Zeynep Güngör: Web frontend tasarımı, arayüz düzenlemeleri 
 Zeynep Bulut: Backend geliştirme, API bağlantıları, Supabase entegrasyonu ve test süreçleri
-Tüm Ekip=GitHub düzeni, sunum hazırlığı, README raporu ve genel proje kontrolü
+Tüm Ekip=GitHub düzeni, sunum hazırlığı, README raporu ve genel proje kontrolü.
 
 
 1. Proje Özeti
